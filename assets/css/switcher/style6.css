@@ -1,0 +1,96 @@
+#style-switcher h2 a { background: #00d690 none repeat scroll 0 0 ;}
+
+.section-title h2{
+	background-color: rgba(0, 214, 144, 0.1);
+}
+.home-slider .slick-prev::before, 
+.home-slider .slick-next::before,
+.single_choose i,
+.section-title h2,
+.single-deal:hover figcaption p,
+.service .icon,
+.footer a:hover, 
+.footer a:focus,
+.footer .foot_social_link li a:hover,
+.tour_slider .slick-prev::before, 
+.tour_slider .slick-next::before,
+.widget_categories i,
+.gallery_enlarge_icon,
+.testimonial .title,
+.post-meta,
+a:hover, 
+a:focus,
+.post-meta span i,
+.single_blog h4 a:hover
+{
+	color: #00d690;
+}
+#navigation #main-menu ul li ul ,
+#navigation #main-menu ul li ul li ul{
+	border-top-color: #00d690;
+}
+.home-slider .slick-prev:hover:before, 
+.home-slider .slick-prev:focus:before, 
+.home-slider .slick-next:hover:before,
+.home-slider .slick-next:focus:before,
+.topcontrol,
+#navigation #main-menu ul li ul li a:hover,
+#navigation.navbar-fixed #main-menu ul li ul li a:hover,
+#navigation.navbar-fixed #main-menu ul li ul li a:focus,
+.meta_cat a,
+.post_tags a,
+.tour_duration,
+.gallery_enlarge_icon:hover, 
+.gallery_enlarge_icon:focus{
+	background-color: #00d690;
+	color: #fff;
+}
+
+#navigation.navbar-fixed,
+.btn-home-bg,
+.btn-contact-bg, 
+#submitButton.btn-contact-bg,
+#top-package .owl-nav button:hover, 
+#testimonial-slider .owl-nav button:hover,
+.pagination-nav a:hover,
+.pagination-nav a:focus,
+.pagination-nav a.active,
+.widget.widget_categories ul > li:hover,
+.widget_tag_cloud a:hover,
+.widget_tag_cloud a:focus{
+	background-color: #00d690;
+	border-color: #00d690;
+}
+#submitButton:hover,
+#submitButton:focus,
+.btn-contact-bg:hover,
+.btn-contact-bg:focus {
+    background: #211E3B;
+    border: 2px solid #211E3B!important;
+    color: #fff;
+	box-shadow: inherit;
+}
+.partner-logo,
+#testimonial-slider .test-img::after,
+.search_form button,
+.single-deal .tr-price,
+.contact_info_wrap {
+	background-color: #00d690;
+
+}
+.single-deal .tr-price:before{
+	border-right: 19px solid #00d690;
+}
+.search_form .form-control:focus,
+.form-control:focus,
+.contact_form_area textarea.form-control:focus,
+.contact_form_area input[type="text"]:focus,
+.contact_form_area input[type="email"]:focus,
+.contact_form_area input[type="phone"]:focus{
+	border-color: #00d690;
+	box-shadow: inherit;
+}
+.banner_overlay,
+.single-gallery::before{
+	background-color: rgba(0, 214, 144, 0.8);
+}
